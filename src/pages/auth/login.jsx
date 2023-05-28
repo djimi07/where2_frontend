@@ -27,7 +27,7 @@ const login = () => {
             </div>
             <div className="absolute left-0 2xl:bottom-[-160px] bottom-[-130px] h-full w-full z-[-1]">
               <img
-                src={Illustration}
+                src="https://where2llc.app/where_2/public/assets2/bar_initiate.jpeg"
                 alt=""
                 className="h-full w-full object-contain"
               />
